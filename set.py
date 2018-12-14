@@ -1,12 +1,12 @@
  #set
  #set is onorder
  #{} element seprated by commmoa
-# basket1 = ['apple','orange','apple','pear','orange','banana']
-# fruits = set(basket1)
-# print(fruits)
+ basket1 = ['apple','orange','apple','pear','orange','banana']
+ fruits = set(basket1)
+ print(fruits)
 
 
-# basket2 = ['apple','orange','apple','pear','orange','banana','apple','banana','apple','orange','pear']
+#  basket2 = ['apple','orange','apple','pear','orange','banana','apple','banana','apple','orange','pear']
 # for fruit in set(basket2):
 #  print((fruit,basket2.count(fruit)))
 # result.append((fruit, basket2.count(fruit)))
